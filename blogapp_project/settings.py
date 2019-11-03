@@ -27,7 +27,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # DEBUG = True
 DEBUG = (os.environ.get('DEBUG_VALUE') == 'False')
 
-ALLOWED_HOSTS = ['linuxcentre.herokuapp.com']
+ALLOWED_HOSTS = ['linuxkit.herokuapp.com']
 
 # Application definition
 
