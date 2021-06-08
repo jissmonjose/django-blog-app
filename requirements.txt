@@ -5,7 +5,7 @@ django-crispy-forms==1.7.2
 django-heroku==0.3.1
 django-view-breadcrumbs==0.1.0
 gunicorn==19.9.0
-Pillow==6.2.0
+Pillow==8.2.0
 psycopg2==2.8.4
 pytz==2019.3
 six==1.12.0
